@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta name="viewport" content="user-scalable=no, width=320, height=480" />
+<link rel="apple-touch-icon" href="../images/iui-logo-touch-icon.png" />
+<meta name="apple-touch-fullscreen" content="YES" /> 
+
+
+<script type="text/javascript"> 
+ window.addEventListener('load', function(){
+   setTimeout(scrollTo, 0, 0, 1);
+ }, false);
+ </script>
+</head>
+<body>
+<h2><%= render :text => "01" %></h2>
+	<% form_tag do %>
+	  <%= submit_tag "on", :name => "on1" %>
+		<%= submit_tag "off", :name => "off1" %>
+	<% end %>
+	<%= render :text => "02" %>
+	<% form_tag do %>
+	  <%= submit_tag "on", :name => "on2" %>
+		<%= submit_tag "off", :name => "off2" %>
+	<% end %>
+  <%= render :text => "03" %>
+	<% form_tag do %>
+	  <%= submit_tag "on", :name => "on3" %>
+		<%= submit_tag "off", :name => "off3" %>
+	<% end %>
+	<%= render :text => "04" %>
+	<% form_tag do %>
+	  <%= submit_tag "on", :name => "on4" %>
+		<%= submit_tag "off", :name => "off4" %>
+	<% end %>
+</body>
+</html>
