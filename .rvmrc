@@ -1,5 +1,0 @@
-if [[ -s "/home/app/.rvm/environments/ruby-1.9.2-p0@metahome" ]] ; then
-  . "/home/app/.rvm/environments/ruby-1.9.2-p0@metahome"
-else
-  rvm --create use  "ruby-1.9.2-p0@metahome"
-fi

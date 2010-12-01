@@ -1,7 +1,10 @@
 class SwitchController < ApplicationController
   def index 
     require 'rubygems'
-    Kernel::require "/Users/Sunshine/Dropbox/Projects/arduino/ruby-serialport-0.7.0/lib/serialport.rb"
+    Kernel::require 'serialport'
+    #Kernel::require "../lib/serialport.rb"
+    #Kernel::require File.dirname(__FILE__) + '/../../public/ruby-serialport-0.7.0/lib/serialport'
+    #Kernel::require File.dirname(__FILE__) + '/../../public/lib/serialport'
 
     #params for serial port
 

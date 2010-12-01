@@ -83,6 +83,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (= 3.0.1)
   capistrano
   rails (= 3.0.1)

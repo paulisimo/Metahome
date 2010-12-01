@@ -1,0 +1,1262 @@
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-25 12:08:15 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (23.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.1ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-25 22:09:15 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (24.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.7ms)
+
+
+Started GET "/bbsb" for 127.0.0.1 at 2010-11-25 22:14:19 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.5ms)
+
+
+Started GET "/bbsb.erb" for 127.0.0.1 at 2010-11-25 22:14:28 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.5ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2010-11-25 22:23:57 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:24:21 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:24:23 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:24:24 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:24:25 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:25:54 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:26:01 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:26:17 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:48:00 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:53:42 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:54:32 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 22:54:36 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.7ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-25 22:54:42 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.4ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-25 22:56:40 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.0ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-25 23:03:54 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:03:57 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:10:47 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.2ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:10:51 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:10:58 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:20:27 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:24:05 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-25 23:29:02 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 11:51:13 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (29.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (38.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 12:50:07 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (29.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (39.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 12:50:12 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (27.2ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (35.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 12:51:40 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.2ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 12:51:44 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 20:56:23 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (29.2ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (38.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:05:39 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:10:20 +0000
+
+ActiveRecord::AdapterNotSpecified (development database is not configured):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:04 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:11 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:12 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:12 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:12 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:13 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:13 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:13 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:11:13 +0000
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:45:00 +0000
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-26 21:45:08 +0000
+
+ActionController::RoutingError (No route matches "/switch"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:46:29 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 42ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:52:55 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 4ms
+
+LoadError (no such file to load -- /lib/serialport.rb):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:53:16 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 5ms
+
+LoadError (no such file to load -- ../lib/serialport.rb):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:53:57 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 16ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:54:23 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (32.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (40.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 21:56:53 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 3ms
+
+NameError (undefined method `create' for class `Class'):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:00:57 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:16:29 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 7ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:20:29 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 7ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:20:30 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (31.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (42.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:37:25 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:40:28 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+NameError (uninitialized constant SwitchController::SerialPort):
+  app/controllers/switch_controller.rb:14:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:40:59 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:41:17 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:41:20 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:41:56 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:42:21 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:43:04 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 3ms
+
+NameError (undefined method `create' for class `Class'):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:43:14 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+NameError (uninitialized constant SerialPort::NONE):
+  app/controllers/switch_controller.rb:14:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:43:23 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 3ms
+
+NameError (undefined method `create' for class `Class'):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:43:59 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 3ms
+
+NameError (undefined method `create' for class `Class'):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:44:11 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 40ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:45:47 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 173ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.9ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-11-26 22:46:29 +0000
+
+ActionController::RoutingError (No route matches "/switch"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:46:35 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:50:12 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:55:04 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 7ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 22:55:56 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:01:50 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 143ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (46.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:02:24 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 139ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:20:44 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 48ms
+
+NameError (uninitialized constant SwitchController::SerialPort):
+  app/controllers/switch_controller.rb:17:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (26.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:21:50 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+NameError (uninitialized constant SwitchController::SerialPort):
+  app/controllers/switch_controller.rb:17:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (7.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:22:18 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 40ms
+
+LoadError (no such file to load -- ../lib/serialport.rb):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (25.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (16.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (47.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:22:39 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 34ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:6:in `require'
+  app/controllers/switch_controller.rb:6:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (33.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (62.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:28:50 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (29.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:29:07 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:30:24 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:7:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (10.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (15.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:30:51 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:7:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:30:56 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:7:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:31:22 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:31:34 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:31:55 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:41:54 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 18ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (31.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (39.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:48:35 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 90ms
+
+LoadError (no such file to load -- serialport.o):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (23.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (30.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:49:48 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 8ms
+
+LoadError (no such file to load -- serialport.o):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:51:02 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.5ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-26 23:54:52 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 16ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 11:57:06 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 43ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:20:16 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 3ms
+
+SyntaxError (/Users/Sunshine/Sites/Metahome/public/lib/serialport.rb:1: syntax error, unexpected tSTRING_BEG, expecting $end
+kernel:require 'serialport.so'
+                ^):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:20:55 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 9ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (31.4ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (39.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:23:48 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport.c):
+  app/controllers/switch_controller.rb:8:in `require'
+  app/controllers/switch_controller.rb:8:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:26:15 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 5ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:5:in `require'
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:26:30 +0000
+
+SyntaxError (/Users/Sunshine/Sites/Metahome/app/controllers/switch_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting tCONSTANT
+    ::require 'rubygems'
+             ^):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:26:48 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:5:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:33:08 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 5ms
+
+LoadError (no such file to load -- serialport-1.0.4):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:43:10 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 31ms
+
+LoadError (no such file to load -- serialport-1.0.4):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.1ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:43:26 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 7ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 12:59:22 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 13:00:28 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 6ms
+
+LoadError (no such file to load -- serialport.so):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.8ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 13:00:43 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 5ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.1ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2010-12-01 13:01:14 +0000
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2010-12-01 13:02:02 +0000
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 13:02:06 +0000
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 29ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-12-01 13:02:13 +0000
+
+ActionController::RoutingError (No route matches "/switch"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/switch" for 127.0.0.1 at 2010-12-01 13:04:17 +0000
+
+ActionController::RoutingError (No route matches "/switch"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-12-01 13:04:19 +0000
+  Processing by SwitchController#index as HTML
+Completed   in 5ms
+
+LoadError (no such file to load -- serialport):
+  app/controllers/switch_controller.rb:4:in `require'
+  app/controllers/switch_controller.rb:4:in `index'
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.2ms)
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.8ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2010-12-01 13:04:23 +0000
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/Sunshine/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
