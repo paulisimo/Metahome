@@ -13,22 +13,22 @@
 </head>
 <body>
 <h2><%= render :text => "01" %></h2>
-	<% form_tag do %>
+	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on1" %>
 		<%= submit_tag "off", :name => "off1" %>
 	<% end %>
 	<%= render :text => "02" %>
-	<% form_tag do %>
+	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on2" %>
 		<%= submit_tag "off", :name => "off2" %>
 	<% end %>
   <%= render :text => "03" %>
-	<% form_tag do %>
+	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on3" %>
 		<%= submit_tag "off", :name => "off3" %>
 	<% end %>
 	<%= render :text => "04" %>
-	<% form_tag do %>
+	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on4" %>
 		<%= submit_tag "off", :name => "off4" %>
 	<% end %>
