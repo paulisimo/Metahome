@@ -1,4 +1,6 @@
 Metahome::Application.routes.draw do
+  get "usbtest/index"
+
   get "home/index" 
   
   # The priority is based upon order of creation:
