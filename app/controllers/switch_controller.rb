@@ -1,7 +1,10 @@
-class SwitchController < ApplicationController
-  def index 
-    require 'rubygems'
-    Kernel::require 'serialport'
+class SerialConnection
+  def self.connection
+    @connection ||= establish_connection
+  end
+
+  def self.establish_connection
+    Kernel::require 'serialport.so'
 
     #params for serial port
 
@@ -11,36 +14,70 @@ class SwitchController < ApplicationController
     data_bits = 8
     stop_bits = 1
     parity = SerialPort::NONE
-    sp = SerialPort.new(port_str, baud_rate, data_bits, stop_bits, parity)
+    
+    SerialPort.new(port_str, baud_rate, data_bits, stop_bits, parity).tap{ |conn|
+      #conn.write "\r\n"
+      #conn.flush
+      sleep 2     
+    }
+  end
+  
+  def self.send(data)
+    connection.write(data)
+    #while (received = connection.gets.strip) != data
+      #sleep 0.5
+    #end
+    #received
+    data
+  end
+end
+
+class SwitchController < ApplicationController
+  def index 
+    
    #lounge 
    if params['on1']
-      sp.write "CMD:C011"
+      write "CMD:C011"
+      flash[:notice] = write("1 on")
     end
     if params['off1']
-      sp.write "CMD:C010"
+      write "CMD:C010"
+      flash[:notice] = write("1 off")
     end
    #topside
     if params['on2']
-      sp.write "CMD:C021"
+      write "CMD:C021"
+      flash[:notice] = write("2 on")
     end
     if params['off2']
-      sp.write "CMD:C020"
+      write "CMD:C020"
+      flash[:notice] = write("2 off")
     end
     #bedroom
      if params['on3']
-        sp.write "CMD:C031"
+        write "CMD:C031"
+        flash[:notice] = write("3 on")
     end
     if params['off3']
-      sp.write "CMD:C030"
+      write "CMD:C030"
+      flash[:notice] = write("3 off")
     end
     #bedroom
    if params['on4']
-      sp.write "CMD:C041"
+      write "CMD:C041"
+      flash[:notice] = write("4 on")
     end
     if params['off4']
-      sp.write "CMD:C040"
+      write "CMD:C040"
+      flash[:notice] = write("4 off")
     end
+    
+
   end 
+
+  def write(cmd)
+    SerialConnection.send cmd
+  end
 
   def exit 
   render :text => "Thanks" 

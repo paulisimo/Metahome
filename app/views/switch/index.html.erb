@@ -1,4 +1,6 @@
-<%= render :text => "01" %>
+<p><%= flash[:notice] %></p>
+<%= render :text => "1" %>
+<%= render :text => printf %>
 	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on1" %>
 		<%= submit_tag "off", :name => "off1" %>
