@@ -1,0 +1,21 @@
+html {
+	width: 320px;
+	font-family: helvetica;
+}
+
+body {
+	width:320px;
+	background-color: #d1d1d1;
+}
+p {
+	padding: 5px;
+	margin:0;
+}
+#container {
+	width: 320px;
+}
+
+input {
+	font-size: 30px;
+	padding: 10px;
+}
