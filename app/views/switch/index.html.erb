@@ -1,24 +1,31 @@
-<div id="contaienr">
-<p><%= flash[:notice] %></p>
-<p><%= render :text => "01" %></p>
+<div>
+	<ul>
+<%= flash[:notice] %>
+<li id="nav"><%= render :text => "01" %>
 <%= render :text => printf %>
 	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on1" %>
 		<%= submit_tag "off", :name => "off1" %>
 	<% end %>
-	<p><%= render :text => "02" %></p>
+	</li>
+	<li id="nav"><%= render :text => "02" %>
 	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on2" %>
 		<%= submit_tag "off", :name => "off2" %>
 	<% end %>
- <p> <%= render :text => "03" %></p>
+	</li>
+ <li id="nav"> <%= render :text => "03" %>
 	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on3" %>
 		<%= submit_tag "off", :name => "off3" %>
 	<% end %>
-<p>	<%= render :text => "04" %></p>
+	</li>
+<li id="nav">	
+<%= render :text => "04" %>
 	<%= form_tag do %>
 	  <%= submit_tag "on", :name => "on4" %>
 		<%= submit_tag "off", :name => "off4" %>
 	<% end %>
+	</li>
+	</ul>
 </div>

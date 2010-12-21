@@ -4,6 +4,7 @@
 	IPHONE
 \*------------------------------------*/
 @media screen and (max-device-width: 480px){
+	
 body{
   -webkit-text-size-adjust:none;
   font-family:Helvetica, Arial, Verdana, sans-serif;
@@ -20,7 +21,7 @@ div{
 #nav,#nav li{
   float:none!important;
   clear:both!important;
-  margin:0 0 20px 0!important;
+  margin:0 0 10px 0!important;
   display:block;
   padding:0;
   text-align:left!important;
@@ -36,5 +37,29 @@ div{
 }
 #nav li a{
   display:block;
+}
+
+input {
+	-webkit-box-shadow: #999 2px 2px 3px;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255, 59, 59, 0.699219)), color-stop(0.5, rgba(233, 72, 72, 0.796875)), color-stop(0.5, rgba(184, 0, 0, 0.699219)), to(rgba(255, 0, 0, 0.796875)));
+	border: 3px solid #6E6E6E;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-width: 3px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 3px;
+	border-top-color: #6E6E6E;
+	border-right-color: #6E6E6E;
+	border-bottom-color: #6E6E6E;
+	border-left-color: #6E6E6E;
+	border-bottom-left-radius: 12px 12px;
+	border-bottom-right-radius: 12px 12px;
+	border-top-left-radius: 12px 12px;
+	border-top-right-radius: 12px 12px;
+	color: white;
+	display: inline-block;
 }
 }
