@@ -1,6 +1,5 @@
 <div>
 	<ul>
-<%= flash[:notice] %>
 <li id="nav"><%= render :text => "01" %>
 <%= render :text => printf %>
 	<%= form_tag do %>
@@ -28,4 +27,5 @@
 	<% end %>
 	</li>
 	</ul>
+	<h1><%= flash[:notice] %></h1>
 </div>
