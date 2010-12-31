@@ -1,4 +1,17 @@
 /*--- Main CSS here ---*/
+body {
+font-family:Helvetica, Arial, Verdana, sans-serif;
+padding:5px;
+}
+
+#feedback {
+	background-color:#d1d1d1;
+}
+#lightData {
+	height: 200px;
+	width: 300px;
+	border: 1px;
+}
 
 /*------------------------------------*\
 	IPHONE
