@@ -1,4 +1,8 @@
 Metahome::Application.routes.draw do
+  get "data/index"
+
+  get "data/show"
+
   get "usbtest/index"
 
   get "home/index" 
