@@ -9,6 +9,7 @@ body{
   -webkit-text-size-adjust:none;
   font-family:Helvetica, Arial, Verdana, sans-serif;
   padding:5px;
+	background: #fff;
 }
 
  li,ul {
