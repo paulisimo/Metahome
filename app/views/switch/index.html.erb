@@ -1,14 +1,3 @@
-<div id="main">
-  <div id="switch">
-  </div>
-</div>
-
-<div id="switch"></div>
-<div id="1"></div>
-
-<script type="text/javascript">
-</script>
-	
 <ul id="switches">
 <li>
 <%= render :text => "01" %>
@@ -53,15 +42,14 @@
   </li>
 </ul>
 	
-	<h1 id="feedback"><%= flash[:notice] %></h1>
+<h1 id="feedback"><%= flash[:notice] %></h1>
 	
-	<script language="JavaScript">
+<script language="JavaScript">
 		$(document).ready(function() {
 		setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 30000);
 		});  
 	</script>
 	<div id="lightData"><h1>Data</h1></div>
-</div>
 
  <script src="/javascripts/zepto.js"></script>
 	<script>
