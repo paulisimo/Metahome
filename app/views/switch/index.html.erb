@@ -1,32 +1,58 @@
-<div>
-	<ul>
-<li id="nav"><%= render :text => "01" %>
+<div id="main">
+  <div id="switch">
+  </div>
+</div>
+
+<div id="switch"></div>
+<div id="1"></div>
+
+<script type="text/javascript">
+</script>
+	
+<ul id="switches">
+<li>
+<%= render :text => "01" %>
 <%= render :text => printf %>
 	<%= form_tag do %>
-	  <%= submit_tag "on", :name => "on1" %>
-		<%= submit_tag "off", :name => "off1" %>
+	 	<%= label :post, :title => "01" %>
+		<%= check_box "cb1", :name => "on1", :id => "cb1" %>
+		<%= submit_tag %>
 	<% end %>
-	</li>
-	<li id="nav"><%= render :text => "02" %>
+</li>
+<li>
+	<%= render :text => "02" %>
 	<%= form_tag do %>
-	  <%= submit_tag "on", :name => "on2" %>
-		<%= submit_tag "off", :name => "off2" %>
+		<%= label :post, :title => "02" %>
+		<%= check_box "cb2", :name => "on2", :id => "cb2" %>
+		<%= submit_tag %>
 	<% end %>
-	</li>
- <li id="nav"> <%= render :text => "03" %>
+</li>
+<li> 
+<%= render :text => "03" %>
 	<%= form_tag do %>
-	  <%= submit_tag "on", :name => "on3" %>
-		<%= submit_tag "off", :name => "off3" %>
+		<%= label :post, :title => "03" %>
+		<%= check_box "cb3", :name => "on3", :id => "cb3" %>
+		<%= submit_tag %>
 	<% end %>
-	</li>
-<li id="nav">	
-<%= render :text => "04" %>
-	<%= form_tag do %>
-	  <%= submit_tag "on", :name => "on4" %>
-		<%= submit_tag "off", :name => "off4" %>
-	<% end %>
-	</li>
-	</ul>
+</li>
+<li>	
+	<%= render :text => "04" %>
+		<%= form_tag do %>
+			<%= label :post, :title => "04" %>
+	  	<%= check_box "cb4", :name => "on4", :id => "cb4" %>
+			<%= submit_tag %>
+		<% end %>
+</li>
+	
+<li>
+    <form action="" method="post">
+      <label for="cb5">Checkbox3</label>
+      <input id="cb5" type="checkbox" name="on5">
+      <input type="submit" >
+    </form>
+  </li>
+</ul>
+	
 	<h1 id="feedback"><%= flash[:notice] %></h1>
 	
 	<script language="JavaScript">
@@ -36,3 +62,34 @@
 	</script>
 	<div id="lightData"><h1>Data</h1></div>
 </div>
+
+ <script src="/javascripts/zepto.js"></script>
+	<script>
+    var PAULAPP = (function(){
+      
+      function next(elem) {
+        do {
+          elem = elem.nextSibling;
+        } while (elem && elem.nodeType != 1);
+        return elem;
+      }
+      
+      $("ul").delegate("label","click",function(){
+        var cb = next(this);
+        
+        this.style.backgroundPosition = (cb.checked) ? "0 0, 100% 0" : "0 0, 0 0";
+        
+        $.ajax({
+          type: 'POST',
+          data: {on4: cb.checked}, // this is the data that you post to the controller (true or false atm)
+          success: function(body) {
+            //alert("something good happened")
+          }, // body is a string (or if dataType is 'json', a parsed JSON object)
+          error: function(xhr, type) { 
+            //alert("something bad happened :|")
+          } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
+        })
+                  
+      });
+    })();
+  </script>

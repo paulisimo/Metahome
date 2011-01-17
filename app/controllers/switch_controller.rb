@@ -53,6 +53,18 @@ class SwitchController < ApplicationController
       write "CMD:C040"
       flash[:notice] = write("4 off")
     end
+    if params['off5']
+      write "CMD:C051"
+      sleep 0.5
+      write "CMD:C051"
+      flash[:notice] = write("5 on")
+    end
+    if params['off5']
+      write "CMD:C050"
+      sleep 0.5
+      write "CMD:C050"
+      flash[:notice] = write("5 off")
+    end
     
 
   end 
