@@ -1,4 +1,33 @@
+	
+		<% form_tag do %>
+		<p>01</p>	
+		<%= submit_tag "on", :name => "on1" %>	
+		<%= submit_tag "off", :name => "off1" %>	
+		<% end %>
+		<% form_tag do %>
+		<p>02</p>	
+		<%= submit_tag "on", :name => "on2" %>	
+		<%= submit_tag "off", :name => "off2" %>	
+		<% end %>
+		<% form_tag do %>
+		<p>03</p>	
+		<%= submit_tag "on", :name => "on3" %>	
+		<%= submit_tag "off", :name => "off3" %>	
+		<% end %>
+		<% form_tag do %>
+		<p>04</p>	
+		<%= submit_tag "on", :name => "on4" %>	
+		<%= submit_tag "off", :name => "off4" %>	
+		<% end %>
+		<% form_tag do %>
+		<p>05</p>	
+		<%= submit_tag "on", :name => "on5" %>	
+		<%= submit_tag "off", :name => "off5" %>	
+		<% end %>
+
+
 <ul id="switches">
+
 <li>
 <%= render :text => "01" %>
 <%= render :text => printf %>

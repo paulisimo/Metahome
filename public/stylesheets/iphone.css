@@ -17,7 +17,7 @@ body{
     margin:0 0 10px;
     padding:0;
   }
-  
+ 
   label {
     width:94px;
     height:27px;
@@ -28,14 +28,17 @@ body{
    text-indent:-1000em;
     overflow:hidden;
   }
-  
-  input {
+
+ #switches input {
     position:absolute;
     left:-1000em;
     overflow:hidden;
   }
 
-
+p {
+	margin: 2px 0px;
+	padding: 2px 10px;
+}
 /*-----------------------------------*/
 	IPHONE
 /*-----------------------------------*/
