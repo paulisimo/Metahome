@@ -1,4 +1,4 @@
---- Main CSS here ---
+/*--- Main CSS here ---*/
 
 #feedback {
 }
@@ -34,13 +34,13 @@ body{
     left:-1000em;
     overflow:hidden;
   }
-
+  
 p {
 	margin: 2px 0px;
 	padding: 2px 10px;
 }
 /*-----------------------------------*/
-	IPHONE
+/*	IPHONE */
 /*-----------------------------------*/
 @media screen and (max-device-width: 480px){
 	

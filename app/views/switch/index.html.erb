@@ -1,4 +1,4 @@
-	
+<!--		
 		<% form_tag do %>
 		<p>01</p>	
 		<%= submit_tag "on", :name => "on1" %>	
@@ -24,7 +24,7 @@
 		<%= submit_tag "on", :name => "on5" %>	
 		<%= submit_tag "off", :name => "off5" %>	
 		<% end %>
-
+-->
 
 <ul id="switches">
 
@@ -32,50 +32,52 @@
 <%= render :text => "01" %>
 <%= render :text => printf %>
 	<%= form_tag do %>
-	 	<%= label :post, :title => "01" %>
-		<%= check_box "cb1", :name => "on1", :id => "cb1" %>
+	  <label for="cb1">Checkbox1</label>
+    <input id="cb1" type="checkbox" name="switch" data-formid="on1" />
 		<%= submit_tag %>
 	<% end %>
 </li>
 <li>
 	<%= render :text => "02" %>
 	<%= form_tag do %>
-		<%= label :post, :title => "02" %>
-		<%= check_box "cb2", :name => "on2", :id => "cb2" %>
-		<%= submit_tag %>
+    <label for="cb2">Checkbox1</label>
+    <input id="cb2" type="checkbox" name="switch" data-formid="on2" />
+    <%= submit_tag %>
 	<% end %>
 </li>
 <li> 
 <%= render :text => "03" %>
 	<%= form_tag do %>
-		<%= label :post, :title => "03" %>
-		<%= check_box "cb3", :name => "on3", :id => "cb3" %>
+		<label for="cb3">Checkbox1</label>
+    <input id="cb3" type="checkbox" name="switch" data-formid="on3" />
 		<%= submit_tag %>
 	<% end %>
 </li>
 <li>	
 	<%= render :text => "04" %>
 		<%= form_tag do %>
-			<%= label :post, :title => "04" %>
-	  	<%= check_box "cb4", :name => "on4", :id => "cb4" %>
+			<label for="cb4">Checkbox1</label>
+      <input id="cb4" type="checkbox" name="switch" data-formid="on4" />
 			<%= submit_tag %>
 		<% end %>
 </li>
-	
+
+<%= params['on'] %>
+<!--	
 <li>
     <form action="" method="post">
       <label for="cb5">Checkbox3</label>
       <input id="cb5" type="checkbox" name="on5">
       <input type="submit" >
     </form>
-  </li>
+  </li>-->
 </ul>
 	
 <h1 id="feedback"><%= flash[:notice] %></h1>
 	
 <script language="JavaScript">
 		$(document).ready(function() {
-		setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 30000);
+		//setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 30000);
 		});  
 	</script>
 	<div id="lightData"><h1>Data</h1></div>
@@ -91,16 +93,21 @@
         return elem;
       }
       
+      var feedback = document.getElementById('feedback');
+      
       $("ul").delegate("label","click",function(){
         var cb = next(this);
         
         this.style.backgroundPosition = (cb.checked) ? "0 0, 100% 0" : "0 0, 0 0";
         
+        var form = cb.getAttribute("data-formid");
+
         $.ajax({
           type: 'POST',
-          data: {on4: cb.checked}, // this is the data that you post to the controller (true or false atm)
+          data: {on: !cb.checked, form: form}, // this is the data that you post to the controller (true or false atm)
+          dataType: 'json',
           success: function(body) {
-            //alert("something good happened")
+            feedback.innerHTML = body.output;
           }, // body is a string (or if dataType is 'json', a parsed JSON object)
           error: function(xhr, type) { 
             //alert("something bad happened :|")
