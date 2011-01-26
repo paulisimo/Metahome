@@ -61,6 +61,14 @@
 			<%= submit_tag %>
 		<% end %>
 </li>
+<li>	
+	<%= render :text => "05" %>
+		<%= form_tag do %>
+			<label for="cb4">Checkbox1</label>
+      <input id="cb5" type="checkbox" name="switch" data-formid="on5" />
+			<%= submit_tag %>
+		<% end %>
+</li>
 
 <%= params['on'] %>
 <!--	
