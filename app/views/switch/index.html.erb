@@ -62,15 +62,6 @@
 		<% end %>
 </li>
 
-<li>	
-	<%= render :text => "04" %>
-		<%= form_tag do %>
-			<label for="cb5">Checkbox1</label>
-      <input id="cb5" type="checkbox" name="switch" data-formid="on5" />
-			<%= submit_tag %>
-		<% end %>
-</li>
-
 <%= params['on'] %>
 <!--	
 <li>
@@ -84,6 +75,13 @@
 	
 <h1 id="feedback"><%= flash[:notice] %></h1>
 	
+<script language="JavaScript">
+		$(document).ready(function() {
+		//setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 30000);
+		});  
+	</script>
+	<div id="lightData"><h1>Data</h1></div>
+
  <script src="/javascripts/zepto.js"></script>
 	<script>
     var PAULAPP = (function(){
@@ -119,10 +117,3 @@
       });
     })();
   </script>
-
-<script language="JavaScript">
-		//$(document).ready(function() {
-		//setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 3000);
-		//});  
-	</script>
-	<!-- <div id="lightData"><h1>Data</h1></div> -->
