@@ -81,14 +81,17 @@
   </li>-->
 </ul>
 	
-<h1 id="feedback"><%= flash[:notice] %></h1>
-	
+<P id="feedback"><%= flash[:notice] %></P>
+
+<div id="lightData"><h1>Data</h1></div>	
+
 <script language="JavaScript">
-		$(document).ready(function() {
+		//$(document).ready(function() {
 		//setInterval(function(){ $('#lightData').load('data/index #lightData h1'); }, 30000);
-		});  
+		//});  
+		
 	</script>
-	<div id="lightData"><h1>Data</h1></div>
+	
 
  <script src="/javascripts/zepto.js"></script>
 	<script>
@@ -123,5 +126,19 @@
         })
                   
       });
+
+	setInterval(function(){
+		$.ajax({
+          type: 'GET',
+          dataType: 'json',
+          success: function(body) {
+			$("h1")[0].innerHTML = "l" + data.l + "h" + data.h + "t" + data.t
+            feedback.innerHTML = body.output;
+          }, // body is a string (or if dataType is 'json', a parsed JSON object)
+          error: function(xhr, type) { 
+            alert("something bad happened :|")
+          } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
+        })
+	   }, 30000);
     })();
   </script>
