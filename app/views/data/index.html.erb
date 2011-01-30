@@ -9,3 +9,20 @@
 </script>
 
 
+<script src="/javascripts/zepto.js"></script>
+	<script>
+	setInterval(function(){
+		$.ajax({
+         type: 'GET',
+         dataType: 'json',
+         success: function(body) {
+			$("h1")[0].innerHTML = "l" + data.l + "h" + data.h + "t" + data.t
+           lightData.innerHTML = body.output;
+         }, // body is a string (or if dataType is 'json', a parsed JSON object)
+         error: function(xhr, type) { 
+           //alert("something bad happened :|")
+         } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
+       })
+	   }, 3000);
+   })();
+ </script>
