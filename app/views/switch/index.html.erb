@@ -1,31 +1,3 @@
-<!--		
-		<% form_tag do %>
-		<p>01</p>	
-		<%= submit_tag "on", :name => "on1" %>	
-		<%= submit_tag "off", :name => "off1" %>	
-		<% end %>
-		<% form_tag do %>
-		<p>02</p>	
-		<%= submit_tag "on", :name => "on2" %>	
-		<%= submit_tag "off", :name => "off2" %>	
-		<% end %>
-		<% form_tag do %>
-		<p>03</p>	
-		<%= submit_tag "on", :name => "on3" %>	
-		<%= submit_tag "off", :name => "off3" %>	
-		<% end %>
-		<% form_tag do %>
-		<p>04</p>	
-		<%= submit_tag "on", :name => "on4" %>	
-		<%= submit_tag "off", :name => "off4" %>	
-		<% end %>
-		<% form_tag do %>
-		<p>05</p>	
-		<%= submit_tag "on", :name => "on5" %>	
-		<%= submit_tag "off", :name => "off5" %>	
-		<% end %>
--->
-
 <ul id="switches">
 
 <li>
@@ -71,14 +43,7 @@
 </li>
 
 <%= params['on'] %>
-<!--	
-<li>
-    <form action="" method="post">
-      <label for="cb5">Checkbox3</label>
-      <input id="cb5" type="checkbox" name="on5">
-      <input type="submit" >
-    </form>
-  </li>-->
+
 </ul>
 	
 <P id="feedback"><%= flash[:notice] %></P>
@@ -140,7 +105,7 @@
           } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
         })
 	   }, 3000);
-    })();
+    });
   </script>
 
 
