@@ -4,6 +4,7 @@ class DataController < ApplicationController
     sp = SerialPort.new("/dev/ttyUSB0",9600,8,1,SerialPort::NONE)
     sp_char = sp.gets
     flash[:notice] = sp_char
+    #respond to xhr
   end
 
   def show
