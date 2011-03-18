@@ -13,7 +13,9 @@ class SerialConnection
     #params for serial port
 
     #port_str = '/dev/tty.usbserial-A600dgPA'  #may be different for you
-    port_str = '/dev/ttyUSB0'
+    #port_str = '/dev/tty.usbmodem621'
+    #port_str = '/dev/ttyUSB0'
+    port_str = '/dev/ttyACM0'
     baud_rate = 9600
     data_bits = 8
     stop_bits = 1

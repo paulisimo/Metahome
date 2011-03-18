@@ -1,6 +1,9 @@
 <div id="lightData">
 <h1><%= flash[:notice] %></h1>
 </div>
+
+<div><%= test %></div>
+
 <div id="sensorData">
 <h1></h1>
 </div>
@@ -13,19 +16,17 @@
 
 
 <script src="/javascripts/zepto.js"></script>
-	<script>
-	setInterval(function(){
-		$.ajax({
-		type: 'GET',
-		url:'/data/index',
-		dataType: 'json',
-		success: function(body) {
-			$("h1")[0].innerHTML = "l" + data.l + "h" + data.h + "t" + data.t
-			sensorData.innerHTML = body.output;
-         }, // body is a string (or if dataType is 'json', a parsed JSON object)
-         error: function(xhr, type) { 
-           //alert("something bad happened :|")
-         } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
-       })
-	   }, 3000);
+
+ 
+ <script>
+ setInterval(function(){
+ $.ajax({
+   type: 'GET', // defaults to 'GET'
+   url: '/data/index', // defaults to window.location
+   data: {name: ''}, // can be a string or object (objects are automatically serialized to JSON)
+   dataType: 'json', // what response type you accept from the server ('json', 'xml', 'html', or 'text')
+   success: function(body) { }, // body is a string (or if dataType is 'json', a parsed JSON object)
+   error: function(xhr, type) { } // type is a string ('error' for HTTP errors, 'parsererror' for invalid JSON)
+ })
+ }, 3000);
  </script>
